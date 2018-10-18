@@ -1,1 +1,1 @@
-# assignment_04
+# Assignment 4 - Animated objects
